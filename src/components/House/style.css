@@ -1,0 +1,7 @@
+.House {
+    width:5vw;
+    height: 25vh;
+    border:1px solid salmon;
+    box-sizing: border-box;
+    position: relative;
+}
